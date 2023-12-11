@@ -1,1 +1,2 @@
-# Eapp
+npm install 
+npm start
