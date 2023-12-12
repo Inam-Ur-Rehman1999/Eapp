@@ -1,0 +1,24 @@
+.nav1{
+    background-color: rgba(88, 163, 133, 0.747);
+    height:60px;
+    width:1350px;
+
+}
+
+.navlogin{
+    height: 31px;
+    width: 80px;
+    border-radius: 10px;
+    border: 1px;
+    background-color: rgba(247, 239, 237, 0.397);
+    margin-left: 1100px;
+    margin-top: 15px;
+}
+.navsignup{
+    margin-left:18px;
+    height: 31px;
+    width: 80px;
+    border-radius: 10px;
+    border: 1px;
+    background-color: rgba(247, 239, 237, 0.397);
+}
